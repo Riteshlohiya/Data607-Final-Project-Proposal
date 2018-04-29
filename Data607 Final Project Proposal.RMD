@@ -4,12 +4,12 @@ author: "Ritesh Lohiya"
 date: "April 28, 2018"
 output: html_document
 ---
- 
+  
 #Predicting Bad Loan
 
 #Description:
 
-A Bad Debt or Loan is a monetary amount owed to a creditor that is unlikely to be paid and, or which the creditor is not willing to take action to collect because of various reasons, often due to the debtor not having the money to pay, for example due to a company going into liquidation or insolvency.
+A Bad Debt or Loan is a monetary amount owed to a creditor that is unlikely to be paid and, or which the creditor is not willing to take action to collect because of various reasons, often due to the debtor not having the money to pay.
 Iam trying to build a bad loan model that can be used by the investors to easily decide whether to finance the borrower for new loans. I will be using Machine Learning Random Forest or some other classification algorithms.	
 
 #Research Questions:
