@@ -1,0 +1,28 @@
+---
+title: "Data607 Final Project Proposal"
+author: "Ritesh Lohiya"
+date: "April 28, 2018"
+output: html_document
+---
+ 
+#Predicting Bad Loan
+
+#Description:
+
+A Bad Debt or Loan is a monetary amount owed to a creditor that is unlikely to be paid and, or which the creditor is not willing to take action to collect because of various reasons, often due to the debtor not having the money to pay, for example due to a company going into liquidation or insolvency.
+Iam trying to build a bad loan model that can be used by the investors to easily decide whether to finance the borrower for new loans. I will be using Machine Learning Random Forest or some other classification algorithms.	
+
+#Research Questions:
+
+Predicting Bad Loan using the available variables in the data.
+
+#Data Description:
+
+Loan data of Lending Club(https://www.lendingclub.com/info/download-data.action) from 2007-2011. I will load the data to my sql and using it for model.
+
+I will also use unemployment rate data from Bureau of Labor Statistics( https://data.bls.gov/map/MapToolServlet).I may do web scrapping or load the data to MongoDB.
+
+
+#Approach:
+
+I will be using the relationa databases and will try to use MongoDB for unemployment rate. I will also present the data by using significant amount of graphics such as constructing and plotting to find the relationship in the data. Iam planning to use Machine Learning Random Forest or some other classification algorithms.
